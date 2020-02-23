@@ -1,6 +1,6 @@
 package by.gil;
 
-import java.util.Scanner;
+
 
 public class Main {
 
